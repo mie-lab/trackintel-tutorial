@@ -6,3 +6,4 @@ dependencies:
 - python=3.9
 - geopandas
 - trackintel=1.2.3
+- notebook
