@@ -28,6 +28,6 @@ Materials for the [1st ACM SIGSPATIAL International Workshop on Reproducibility 
 
 ```json
 {
-    "data_dir": "./Data/geolife/"
+    "data_dir": "./Data/Geolife/Data"
 }
 ```
