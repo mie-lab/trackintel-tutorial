@@ -5,7 +5,6 @@ Tutorial materials for trackintel library
 
 Materials for the [1st ACM SIGSPATIAL International Workshop on Reproducibility in tracking data analysis and mobility research](https://mie-lab.github.io/reprotrack/)
 
-Try the trackintel tutorial online in a MyBinder notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mie-lab/trackintel-tutorial/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fmie-lab%2Ftrackintel-tutorial%2Fblob%2Fmain%2Fsigspatial23%2FIntroduction_to_trackintel.ipynb)
 ### Installing the dependencies
 - Clone the trackintel-tutorial repository into a local folder
 ```shell
