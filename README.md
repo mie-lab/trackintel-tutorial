@@ -24,7 +24,7 @@ Materials for the [1st ACM SIGSPATIAL International Workshop on Reproducibility 
 
 ### Geolife sample data 
 - The `Data/Geolife/Data` folder contains a subset of selected 20 users from the original Geolife GPS tracking dataset from [here](https://www.microsoft.com/en-us/download/details.aspx?id=52367). 
-- In the file `paths.json`, define your working directories by writing:
+- In the file `paths.json`, we have defined the data directories by writing:
 
 ```json
 {
