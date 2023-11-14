@@ -5,7 +5,7 @@ Tutorial materials for trackintel library
 
 We organized the  [1st ACM SIGSPATIAL International Workshop on Reproducibility in tracking data analysis and mobility research](https://mie-lab.github.io/reprotrack/), featuring a keynote talk by Prof. Edzer Pebesma a tutorial and a hands-on session. 
 
-* Keynote by Edzer Pebesma: Slides: [here](https://docs.google.com/presentation/d/1M2SB1ibV0Jzt9FZFmdrEp_xWIZdZLC2X89xJdWaTSZs/edit?usp=sharing)\\ Abstract: In this talk I will discuss of reproducibility in general, why it
+* Keynote by Edzer Pebesma: Slides: [here](https://docs.google.com/presentation/d/1M2SB1ibV0Jzt9FZFmdrEp_xWIZdZLC2X89xJdWaTSZs/edit?usp=sharing) - Abstract: In this talk I will discuss of reproducibility in general, why it
 matters for good science, the differences to replicability, and the
 challenges aspects to reproducing scientific computations.  I will
 also discuss the practice of how we conduct science, how and why we
